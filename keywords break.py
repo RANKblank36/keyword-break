@@ -1,7 +1,7 @@
-nandipa = input("Enter a name: ")
-for i in nandipa:
-    if i == 'NANDIPA':
-        print("NANDIPA is found")
+n = input("Enter a letter: ")
+for i in n:
+    if i == 'N':
+        print("N is found")
         break
     else:
-        print("NANDIPA not found")
+        print("N not found")
